@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Zhuinden:tuples-kt:1.1.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.Zhuinden" artifactId="tuples-kt" version="1.1.1" baseVersion="1.1.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Zhuinden/tuples-kt/1.1.1/3089272e5093d78cde2a2e82acbe9f5b44af5408/tuples-kt-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Zhuinden/tuples-kt/1.1.1/9377459dfb8bede142bde8aa73321c5a0ed63458/tuples-kt-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
